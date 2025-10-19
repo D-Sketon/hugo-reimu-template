@@ -155,6 +155,11 @@ summary:
   enable: false
   style: 'subtitle' # 'subtitle' or 'blockquote'
 
+triangle_badge:
+  enable: false
+  icon: github # same as the icon in the social config
+  link: https://github.com/D-Sketon/hugo-theme-reimu
+
 # RSS output
 rss:
   limit: 10             # The number of recent articles to be output, write -1 to output all
